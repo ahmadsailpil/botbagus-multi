@@ -44,7 +44,7 @@ let jarot = `
                {
              quickReplyButton: {
                displayText: '𝙇𝙄𝙎𝙏 𝘾𝙊𝙈𝙈𝘼𝙉𝘿,
-               id: '.menu',
+               id: '.? all',
              }
 
            }]

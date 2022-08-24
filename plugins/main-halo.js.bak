@@ -25,7 +25,7 @@ Runtime: ${uptime}`
     status: 1,
     surface : 1,
     message: `2022 © ${namebot}, 
-    orderTitle: 𝙍𝙄𝘿𝙃𝙊 𝙂𝘼𝙉𝙕`,
+    orderTitle: Oscarbotz_offc`,
     thumbnail: 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }

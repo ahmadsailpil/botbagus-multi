@@ -15,7 +15,7 @@ let jarot = `
            hydratedFooterText: '📮Note : Jika Kamu Menggunakan Wa Lama Atau Wa Mod, Dan Button Tidak Keliatan, Langsung Aja Ketik .? all',
            hydratedButtons: [{
              urlButton: {
-               displayText: '🔮GroupBot🔮',
+               displayText: '🔮𝙂𝙍𝙊𝙐𝙋 𝘽𝙊𝙏🔮',
                url: 'https://chat.whatsapp.com/GMv2BxudUzfJhIAwtv8Tvh'
              }
 
@@ -43,8 +43,8 @@ let jarot = `
              },
                {
              quickReplyButton: {
-               displayText: 'LIST COMMAND',
-               id: '.? all',
+               displayText: '𝙇𝙄𝙎𝙏 𝘾𝙊𝙈𝙈𝘼𝙉𝘿,
+               id: '.menu',
              }
 
            }]
