@@ -10284,7 +10284,7 @@
       "level": 0,
       "pasangan": "",
       "pc": 0,
-      "exp": 19656,
+      "exp": 20361,
       "coin": 0,
       "atm": 0,
       "limit": 20,
@@ -13257,7 +13257,7 @@
       "level": 0,
       "pasangan": "",
       "pc": 0,
-      "exp": 658,
+      "exp": 685,
       "coin": 0,
       "atm": 0,
       "limit": 20,
@@ -18625,10 +18625,10 @@
       "lastSuccess": 1661060967545
     },
     "main-menu.js": {
-      "total": 64,
-      "success": 64,
-      "last": 1661439443131,
-      "lastSuccess": 1661439443131
+      "total": 71,
+      "success": 71,
+      "last": 1661446082007,
+      "lastSuccess": 1661446082007
     },
     "info-creator_ans.js": {
       "total": 3,
@@ -18637,10 +18637,10 @@
       "lastSuccess": 1661254546781
     },
     "main-bot.js": {
-      "total": 6,
-      "success": 6,
-      "last": 1661253509841,
-      "lastSuccess": 1661253509841
+      "total": 7,
+      "success": 7,
+      "last": 1661445615248,
+      "lastSuccess": 1661445615248
     },
     "sticker-sticker.js": {
       "total": 9,
@@ -18673,10 +18673,10 @@
       "lastSuccess": 1661251729187
     },
     "info-boost.js": {
-      "total": 4,
-      "success": 4,
-      "last": 1661436874212,
-      "lastSuccess": 1661436874212
+      "total": 13,
+      "success": 13,
+      "last": 1661446057529,
+      "lastSuccess": 1661446057529
     },
     "main-bebanjoin.js": {
       "total": 2,
@@ -18739,10 +18739,10 @@
       "lastSuccess": 1661255443934
     },
     "main-p.js": {
-      "total": 38,
-      "success": 38,
-      "last": 1661439780612,
-      "lastSuccess": 1661439780612
+      "total": 40,
+      "success": 40,
+      "last": 1661446024890,
+      "lastSuccess": 1661446024890
     },
     "main-lawak.js": {
       "total": 3,
@@ -18793,10 +18793,10 @@
       "lastSuccess": 1661254891644
     },
     "owner-self.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1661254907591,
-      "lastSuccess": 1661254907591
+      "total": 4,
+      "success": 4,
+      "last": 1661446040219,
+      "lastSuccess": 1661446040219
     },
     "main-iyah.js": {
       "total": 4,
@@ -18941,6 +18941,36 @@
       "success": 2,
       "last": 1661439803904,
       "lastSuccess": 1661439803904
+    },
+    "jadwal-senin.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1661446091750,
+      "lastSuccess": 1661446091750
+    },
+    "jadwal-selasa.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661446098740,
+      "lastSuccess": 1661446098740
+    },
+    "jadwal-rabu.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661446103824,
+      "lastSuccess": 1661446103824
+    },
+    "jadwal-jumat.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661446116806,
+      "lastSuccess": 1661446116806
+    },
+    "jadwal-kamis.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661446109306,
+      "lastSuccess": 1661446109306
     }
   },
   "msgs": {},
