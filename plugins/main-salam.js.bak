@@ -1,0 +1,7 @@
+let handler = async m => m.reply(`
+𝙉𝘼𝙃 𝙂𝙄𝙏𝙐 𝙆𝙀𝙆.𝙊𝙆𝙀 👍
+`.trim()) // Tambah sendiri kalo mau
+handler.customPrefix = /^(assalamu'alaikum|assalamualaikum)$/i
+handler.command = new RegExp
+
+module.exports = handler

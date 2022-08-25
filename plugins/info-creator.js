@@ -5,7 +5,7 @@ VERSION:3.0
 N:;;;
 FN: ᴹᴿ᭄ 𝙍𝙄𝘿𝙃𝙊 𝙂𝘼𝙉𝙕ঔৣ꧂
 item.ORG: ᴹᴿ᭄ 𝙍𝙄𝘿𝙃𝙊 𝙂𝘼𝙉𝙕ঔৣ꧂
-item1.TEL;waid=6283160327945:79609055704@s.whatsapp.net
+item1.TEL;waid=6283160327945@s.whatsapp.net
 item1.X-ABLabel:owner selalu ada 
 item2.YOUTUBE;type=INTERNET: https://linktr.ee/asepbotz
 item2.X-ABLabel:YOUTUBE

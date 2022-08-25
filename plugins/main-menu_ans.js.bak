@@ -44,7 +44,7 @@ let jarot = `
                {
              quickReplyButton: {
                displayText: '𝙇𝙄𝙎𝙏 𝘾𝙊𝙈𝙈𝘼𝙉𝘿,
-               id: '.menu',
+               id: '.? all',
              }
 
            }]
@@ -60,7 +60,7 @@ let jarot = `
 }
 
 handler.tags = ['main', 'info']
-handler.customPrefix = /^(menu|help|.menu|.help)$/i
+handler.command = /^(menu|.menu|helplist|asep|\?)$/i
 handler.help = ['.menu']
 handler.command = new RegExp
 

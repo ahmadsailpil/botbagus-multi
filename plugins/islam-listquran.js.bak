@@ -4,5 +4,4 @@ let handler = async m => m.reply(`
 handler.help = ['quran']
 handler.tags = ['islam']
 handler.command = /^(quran)$/i
-
 module.exports = handler

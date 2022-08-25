@@ -39,12 +39,12 @@ let message = await prepareWAMessageMedia({ image: buffer }, { upload: conn.waUp
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'OWNER',
+                                    displayText: '𝙊𝙒𝙉𝙀𝙍',
                                     id: '/owner'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Back To Menu',
+                                    displayText: '𝘽𝘼𝘾𝙆 𝙏𝙊 𝙈𝙀𝙉𝙐',
                                     id: '/menu'
                                 }
                             }]

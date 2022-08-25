@@ -1,0 +1,875 @@
+{
+  "users": {
+  {
+  },
+  "stats": {
+    "menu.js": {
+      "total": 146,
+      "success": 139,
+      "last": 1640687567556,
+      "lastSuccess": 1640687567556
+    },
+    "creator.js": {
+      "total": 38,
+      "success": 38,
+      "last": 1640650104849,
+      "lastSuccess": 1640650104849
+    },
+    "donasi.js": {
+      "total": 30,
+      "success": 28,
+      "last": 1661389345048,
+      "lastSuccess": 1661389345048
+    },
+    "adventure.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1640238748439,
+      "lastSuccess": 1640238748439
+    },
+    "tqto.js": {
+      "total": 14,
+      "success": 14,
+      "last": 1640649323491,
+      "lastSuccess": 1640649323491
+    },
+    "runtime.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1640648842763,
+      "lastSuccess": 1640648842763
+    },
+    "play.js": {
+      "total": 38,
+      "success": 24,
+      "last": 1640648080759,
+      "lastSuccess": 1640610728326
+    },
+    "sourcecode.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640241939148,
+      "lastSuccess": 1640241939148
+    },
+    "readmore.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640194018249,
+      "lastSuccess": 1640194018249
+    },
+    "memeindo.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1640675534586,
+      "lastSuccess": 1640675534586
+    },
+    "igstalk.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640675604488,
+      "lastSuccess": 1640675604488
+    },
+    "waifu.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640576467895,
+      "lastSuccess": 1640576467895
+    },
+    "glowing.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1640194466371,
+      "lastSuccess": 0
+    },
+    "linkgroup.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1640439331128,
+      "lastSuccess": 1640439331128
+    },
+    "revoke.js": {
+      "total": 4,
+      "success": 3,
+      "last": 1640655420055,
+      "lastSuccess": 1640217362857
+    },
+    "exec.js": {
+      "total": 194,
+      "success": 194,
+      "last": 1640686865776,
+      "lastSuccess": 1640686865776
+    },
+    "animeinfo.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1640238777485,
+      "lastSuccess": 1640238777485
+    },
+    "my.js": {
+      "total": 11,
+      "success": 10,
+      "last": 1640662107639,
+      "lastSuccess": 1640662107639
+    },
+    "exec2.js": {
+      "total": 77,
+      "success": 77,
+      "last": 1640669113915,
+      "lastSuccess": 1640669113915
+    },
+    "enable.js": {
+      "total": 8,
+      "success": 0,
+      "last": 1640575218304,
+      "lastSuccess": 0
+    },
+    "sticker.js": {
+      "total": 49,
+      "success": 18,
+      "last": 1640670118132,
+      "lastSuccess": 1640669539271
+    },
+    "carigrup.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640241636240,
+      "lastSuccess": 1640241636240
+    },
+    "collect.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640241763321,
+      "lastSuccess": 1640241763321
+    },
+    "textpro.js": {
+      "total": 198,
+      "success": 70,
+      "last": 1640669086193,
+      "lastSuccess": 1640668011635
+    },
+    "self.js": {
+      "total": 9,
+      "success": 9,
+      "last": 1640597408165,
+      "lastSuccess": 1640597408165
+    },
+    "ping.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1640583778966,
+      "lastSuccess": 1640583778966
+    },
+    "botstat.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1640243930354,
+      "lastSuccess": 0
+    },
+    "levelup.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1640432305797,
+      "lastSuccess": 1640432305797
+    },
+    "kalkulator.js": {
+      "total": 17,
+      "success": 13,
+      "last": 1640615234469,
+      "lastSuccess": 1640615234469
+    },
+    "math.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640255822403,
+      "lastSuccess": 1640255822403
+    },
+    "update.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1640257164723,
+      "lastSuccess": 0
+    },
+    "tourl.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1640575289387,
+      "lastSuccess": 1640575289387
+    },
+    "yts.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1640686898154,
+      "lastSuccess": 1640686898154
+    },
+    "yta.js": {
+      "total": 6,
+      "success": 5,
+      "last": 1640608121262,
+      "lastSuccess": 1640608121262
+    },
+    "ytv.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1640608138651,
+      "lastSuccess": 1640608138651
+    },
+    "delete.js": {
+      "total": 7,
+      "success": 5,
+      "last": 1640484558136,
+      "lastSuccess": 1640414276016
+    },
+    "wolflogo.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640591558452,
+      "lastSuccess": 1640591558452
+    },
+    "alquran.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1640310760559,
+      "lastSuccess": 1640310760559
+    },
+    "tagadmin.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640394116074,
+      "lastSuccess": 1640394116074
+    },
+    "tagme.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640394121477,
+      "lastSuccess": 1640394121477
+    },
+    "dadu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640394242035,
+      "lastSuccess": 1640394242035
+    },
+    "halo.js": {
+      "total": 60,
+      "success": 57,
+      "last": 1640687545795,
+      "lastSuccess": 1640687545795
+    },
+    "nsfwneko.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640396011298,
+      "lastSuccess": 1640396011298
+    },
+    "font.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640396169713,
+      "lastSuccess": 1640396169713
+    },
+    "bucin.js": {
+      "total": 22,
+      "success": 22,
+      "last": 1640686876428,
+      "lastSuccess": 1640686876428
+    },
+    "pengumuman.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1640410325588,
+      "lastSuccess": 0
+    },
+    "tagall.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1640437577673,
+      "lastSuccess": 1640437577673
+    },
+    "Ngawur.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1640432700143,
+      "lastSuccess": 1640432700143
+    },
+    "bacot.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640415368056,
+      "lastSuccess": 1640415368056
+    },
+    "fakta.js": {
+      "total": 27,
+      "success": 19,
+      "last": 1640657799305,
+      "lastSuccess": 1640657799305
+    },
+    "galau.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640432749033,
+      "lastSuccess": 1640432749033
+    },
+    "gombal.js": {
+      "total": 4,
+      "success": 3,
+      "last": 1640432644597,
+      "lastSuccess": 1640432644597
+    },
+    "islami.js": {
+      "total": 5,
+      "success": 0,
+      "last": 1640433341311,
+      "lastSuccess": 0
+    },
+    "katailham.js": {
+      "total": 28,
+      "success": 20,
+      "last": 1640648876809,
+      "lastSuccess": 1640648876809
+    },
+    "afk.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640419277426,
+      "lastSuccess": 1640419277426
+    },
+    "daily.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1640607557553,
+      "lastSuccess": 1640607557553
+    },
+    "motivasi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640433067248,
+      "lastSuccess": 1640433067248
+    },
+    "murothal.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640433141979,
+      "lastSuccess": 1640433141979
+    },
+    "pantun.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640433666580,
+      "lastSuccess": 1640433666580
+    },
+    "katabijak.js": {
+      "total": 7,
+      "success": 5,
+      "last": 1640576517494,
+      "lastSuccess": 1640576517494
+    },
+    "quotes.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1640576816856,
+      "lastSuccess": 1640576816856
+    },
+    "quran.js": {
+      "total": 13,
+      "success": 13,
+      "last": 1640577482983,
+      "lastSuccess": 1640577482983
+    },
+    "gitclone.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1640616373241,
+      "lastSuccess": 1640616373241
+    },
+    "fetch.js": {
+      "total": 13,
+      "success": 9,
+      "last": 1640648975472,
+      "lastSuccess": 1640648975472
+    },
+    "banchat.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640440165231,
+      "lastSuccess": 1640440165231
+    },
+    "unbanchat.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640575218322,
+      "lastSuccess": 1640575218322
+    },
+    "suit.js": {
+      "total": 3,
+      "success": 1,
+      "last": 1640476275360,
+      "lastSuccess": 1640476275360
+    },
+    "kapankah.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640661160360,
+      "lastSuccess": 1640661160360
+    },
+    "setbotpp.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1640575222135,
+      "lastSuccess": 1640575222135
+    },
+    "setCmdWithMedia.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640484281346,
+      "lastSuccess": 1640484281346
+    },
+    "Fakereply.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1640484542871,
+      "lastSuccess": 0
+    },
+    "simsimi.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640575390143,
+      "lastSuccess": 1640575390143
+    },
+    "attp.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640575735400,
+      "lastSuccess": 1640575735400
+    },
+    "ayatkursi.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1640576342564,
+      "lastSuccess": 1640576342564
+    },
+    "toimg2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640579925919,
+      "lastSuccess": 1640579925919
+    },
+    "How.js": {
+      "total": 7,
+      "success": 4,
+      "last": 1640648510481,
+      "lastSuccess": 1640648510481
+    },
+    "Cek.js": {
+      "total": 28,
+      "success": 27,
+      "last": 1640648654571,
+      "lastSuccess": 1640648654571
+    },
+    "Detikvn.js": {
+      "total": 10,
+      "success": 10,
+      "last": 1640615558981,
+      "lastSuccess": 1640615558981
+    },
+    "sendquote.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1640620473310,
+      "lastSuccess": 0
+    },
+    "berita.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640653257553,
+      "lastSuccess": 1640653257553
+    },
+    "translate.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1640653911280,
+      "lastSuccess": 1640653911280
+    },
+    "kodebahasa.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640652217132,
+      "lastSuccess": 1640652217132
+    },
+    "database.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640655365386,
+      "lastSuccess": 1640655365386
+    },
+    "spotify.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640661781444,
+      "lastSuccess": 1640661781444
+    },
+    "coffecup.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1640669306266,
+      "lastSuccess": 0
+    },
+    "cup1.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1640669342433,
+      "lastSuccess": 0
+    },
+    "caklontong.js": {
+      "total": 17,
+      "success": 11,
+      "last": 1640675246014,
+      "lastSuccess": 1640675105799
+    },
+    "caklontong_hint.js": {
+      "total": 8,
+      "success": 7,
+      "last": 1640675117143,
+      "lastSuccess": 1640675117143
+    },
+    "contact.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640675368529,
+      "lastSuccess": 1640675368529
+    },
+    "couple.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1640675409899,
+      "lastSuccess": 0
+    },
+    "darkjoke.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1640686865716,
+      "lastSuccess": 1640686865716
+    },
+    "meme.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1640675534536,
+      "lastSuccess": 1640675534536
+    },
+    "main-menu_ans.js": {
+      "total": 47,
+      "success": 38,
+      "last": 1661254403224,
+      "lastSuccess": 1661254403224
+    },
+    "_autoreact.js": {
+      "total": 8,
+      "success": 8,
+      "last": 1661254644474,
+      "lastSuccess": 1661254644474
+    },
+    "xp-regist.js": {
+      "total": 7,
+      "success": 6,
+      "last": 1661255981270,
+      "lastSuccess": 1661255981270
+    },
+    "group-tagall.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661061060770,
+      "lastSuccess": 1661061060770
+    },
+    "Zzzz.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661060967545,
+      "lastSuccess": 1661060967545
+    },
+    "main-menu.js": {
+      "total": 42,
+      "success": 42,
+      "last": 1661391502361,
+      "lastSuccess": 1661391502361
+    },
+    "info-creator_ans.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661254546781,
+      "lastSuccess": 1661254546781
+    },
+    "main-bot.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1661253509841,
+      "lastSuccess": 1661253509841
+    },
+    "sticker-sticker.js": {
+      "total": 9,
+      "success": 0,
+      "last": 1661257117224,
+      "lastSuccess": 0
+    },
+    "group_kick.js": {
+      "total": 4,
+      "success": 3,
+      "last": 1661252773126,
+      "lastSuccess": 1661252773126
+    },
+    "group-add.js": {
+      "total": 7,
+      "success": 3,
+      "last": 1661252763746,
+      "lastSuccess": 1661252763746
+    },
+    "group-promote.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661061186125,
+      "lastSuccess": 1661061186125
+    },
+    "info-sc.js": {
+      "total": 7,
+      "success": 7,
+      "last": 1661251729187,
+      "lastSuccess": 1661251729187
+    },
+    "info-boost.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661250299239,
+      "lastSuccess": 1661250299239
+    },
+    "main-bebanjoin.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661250281990,
+      "lastSuccess": 1661250281990
+    },
+    "sticker-tourl.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661253117310,
+      "lastSuccess": 1661253117310
+    },
+    "fun-ref.js": {
+      "total": 5,
+      "success": 3,
+      "last": 1661254974936,
+      "lastSuccess": 1661251483024
+    },
+    "info-sosialmedia.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1661254564267,
+      "lastSuccess": 1661254564267
+    },
+    "info-biodata.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661252178806,
+      "lastSuccess": 1661252178806
+    },
+    "info-store.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661252268569,
+      "lastSuccess": 1661252268569
+    },
+    "info-store_ans.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661252282569,
+      "lastSuccess": 1661252282569
+    },
+    "main-nice.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661256128464,
+      "lastSuccess": 1661256128464
+    },
+    "sticker-ttp.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1661252918388,
+      "lastSuccess": 0
+    },
+    "main-gcbot.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1661255443934,
+      "lastSuccess": 1661255443934
+    },
+    "main-p.js": {
+      "total": 20,
+      "success": 20,
+      "last": 1661389690727,
+      "lastSuccess": 1661389690727
+    },
+    "main-lawak.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661384171361,
+      "lastSuccess": 1661384171361
+    },
+    "sticker-toimg.js": {
+      "total": 6,
+      "success": 4,
+      "last": 1661257122954,
+      "lastSuccess": 1661257122954
+    },
+    "sticker-smeme.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661253605182,
+      "lastSuccess": 1661253605182
+    },
+    "main-ok.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1661388985741,
+      "lastSuccess": 1661388985741
+    },
+    "main-waalaikummussalam.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661254481678,
+      "lastSuccess": 1661254481678
+    },
+    "maker-textpro.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1661254535650,
+      "lastSuccess": 0
+    },
+    "info-creator.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661254559176,
+      "lastSuccess": 1661254559176
+    },
+    "xp-unreg.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661254891644,
+      "lastSuccess": 1661254891644
+    },
+    "owner-self.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661254907591,
+      "lastSuccess": 1661254907591
+    },
+    "main-iyah.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1661384314369,
+      "lastSuccess": 1661384314369
+    },
+    "main-nyimak.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661256179716,
+      "lastSuccess": 1661256179716
+    },
+    "main-sange.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661256216195,
+      "lastSuccess": 1661256216195
+    },
+    "main-turu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661256244666,
+      "lastSuccess": 1661256244666
+    },
+    "islam-doaharian.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1661389329009,
+      "lastSuccess": 1661389329009
+    },
+    "main-nangis.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661384236424,
+      "lastSuccess": 1661384236424
+    },
+    "main-sewa.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1661391724656,
+      "lastSuccess": 1661391724656
+    },
+    "islam-asmaulhusna.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661384430998,
+      "lastSuccess": 1661384430998
+    },
+    "islam-alquran.js": {
+      "total": 9,
+      "success": 1,
+      "last": 1661388955508,
+      "lastSuccess": 1661388955508
+    },
+    "islam-listquran.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1661388940937,
+      "lastSuccess": 1661388940937
+    },
+    "islam-kisahnabi.js": {
+      "total": 4,
+      "success": 3,
+      "last": 1661389306768,
+      "lastSuccess": 1661389296095
+    },
+    "nulis-flaming4.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1661389555534,
+      "lastSuccess": 1661389555534
+    },
+    "nulis-flaming5.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661389521799,
+      "lastSuccess": 1661389521799
+    },
+    "spamcall.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661389668991,
+      "lastSuccess": 1661389668991
+    },
+    "tools-waktu.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661389700491,
+      "lastSuccess": 1661389700491
+    },
+    "maker-nulis.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1661389911770,
+      "lastSuccess": 1661389911770
+    },
+    "owner-enable.js": {
+      "total": 12,
+      "success": 2,
+      "last": 1661391670669,
+      "lastSuccess": 1661391670669
+    }
+  },
+  "msgs": {},
+  "sticker": {
+    "101,10,107,76,9,251,181,194,56,26,176,250,31,247,41,199,110,13,110,89,66,93,80,217,179,23,184,2,243,210,229,43": {
+      "text": ".menu",
+      "mentionedJid": [],
+      "creator": "6285643354073@s.whatsapp.net",
+      "at": 1640484281343,
+      "locked": false
+    }
+  }
+}

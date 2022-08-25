@@ -1,8 +1,6 @@
-let handler = async (m, { conn, text, usedPrefix, command }) => {
-
-conn.sendImageAsSticker(m.chat, 'https://telegra.ph/file/db38dcd2fcbe07ec66348.jpg', m, { packname: "𝘼𝙎𝙀𝙋𝘽𝙊𝙏𝙕", author: "@𝙍𝙄𝘿𝙃𝙊" })
-}
-
+let handler = async m => m.reply(`
+𝙋.𝙋.𝙋  𝙎𝘼𝙇𝘼𝙈 𝘿𝙐𝙇𝙐 𝘼𝙎𝙎𝘼𝙇𝘼𝙈𝙐𝘼𝙇𝘼𝙄𝙆𝙐𝙈.𝙂𝙄𝙏𝙐 𝙆𝙀𝙆.𝙊𝙆𝙀 👍
+`.trim()) // Tambah sendiri kalo mau
 handler.customPrefix = /^(p)$/i
 handler.command = new RegExp
 
