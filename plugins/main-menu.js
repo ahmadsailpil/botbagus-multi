@@ -17,22 +17,27 @@ let totalf = Object.values(global.plugins).filter(
 const defaultMenu = {
   before:`
 ┏━━━━━━─────┈ ⳹
-┃╔━─⟢⟨ ${global.namebot} ⟩⟣
-┇┃ ➯𝙊𝙬𝙣𝙚𝙧 : ${global.nameowner }
-┃║ ➯𝘽𝙊𝙏 : ${global.namebot }
-┇┃ ➯𝙐𝙥𝙩𝙞𝙢𝙚 : %uptime
-┃║ ➯𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 : %rtotalreg
-┃❏
+┃┏━─⟢⟨ ${global.namebot} ⟩⟣
+┃┃ ➯𝙊𝙬𝙣𝙚𝙧 : ${global.nameowner }
+┃┃ ➯𝘽𝙊𝙏 : ${global.namebot }
+┃┃ ➯𝙐𝙥𝙩𝙞𝙢𝙚 : %uptime
+┃┃ ➯𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 : %rtotalreg
+┃❏━━━━━━─────────┈
+┃〔  𝐓 𝐎 𝐃 𝐀 𝐘  〕───⬣
+┃⬡ 𝚃𝙾𝙳𝙰𝚈 : *%week %weton* 
+┃⬡ 𝙳𝙰𝚃𝙴 : *%date*
+┃⬡ 𝙳𝙰𝚃𝙴 𝙸𝚂𝙻𝙰𝙼𝙸𝙲 : *%dateIslamic*
+┃⬡ 𝚃𝙸𝙼𝙴 : *%time*
 ┗┳━━◩
 ┍┛
 ┆➯📝𝘼𝙡𝙡 𝙁𝙞𝙩𝙪𝙧 : ${totalf}
 └─┈⟅
 ┍━━━──┈❏➢ Profile
-┆𝙽𝚊𝚖𝚎 : %name
-┆𝙻𝚒𝚖𝚒𝚝 : %limit
-┆𝙻𝚎𝚟𝚎𝚕 : %level
-┆𝙴𝚡𝚙   : %exp
-┆𝚁𝚘𝚕𝚎   : %role
+┆𝙉𝙖𝙢𝙚 : %name
+┆𝙇𝙞𝙢𝙞𝙩 : %limit
+┆𝙇𝙚𝙫𝙚𝙡 : %level
+┆𝙀𝙭𝙥   : (%exp / %maxexp)
+┆𝙍𝙤𝙡𝙚   : %role
 └──┈┈⟢
 %readmore`.trimStart(), 
   header: '⳼────❪ %category ❫\n┃╭─❏ ',
@@ -324,119 +329,114 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
                 "title": "⟣─────────❲ 𝗜 𝗡 𝗙 𝗢 ❳──────────⟢"
               }, {
                 "rows": [{
-                  "title": `│🧾│ SEMUA PERINTAH`,
+                  "title": `||🏫||┅MENU———๑〘 ALL 〙`,
                   "description": "Menampilkan Menu All",
                   "rowId": '.? all'
+                 }],
+                "title": "⟣─────────❲ 𝗔 𝗟 𝗟 ❳──────────⟢"
                   }, {
-                  "title": "│ 📝│ ABSEN & VOTING",
+                  "rows": [{
+                  "title": "||📝||┅MENU ABSEN———๑〘 1 〙",
                   "description": "Menampilkan Menu Absen",
                   "rowId": `${_p}? absen`
                 }, {
-                  "title": "│⛩️│ANIME",
+                  "title": "||⛩️||┅MENU ANIME———๑〘 2 〙",
                   "description": "Menampilkan Menu Anime",
                   "rowId": `${_p}? anime`
                 }, {
-                  "title": "│🎇│STICKER & CONVERTER",
+                  "title": "||🎟️||┅MENU STICKER———๑〘 3 〙",
                   "description": "Menampilkan Menu Sticker",
                   "rowId": `${_p}? sticker`
                 }, {
-                  "title": "│📺│DOWNLOADER",
+                  "title": "||📺||┅MENU DOWNLOADER———๑〘 4 〙",
                   "description": "Menampilkan Menu Downloader",
                   "rowId": `${_p}? downloader`
                 }, {
-                  "title": "│📈│EXP & LIMIT",
+                  "title": "||📈||┅MENU EXP———๑〘 5 〙",
                   "description": "Menampilkan Menu Exp",
                   "rowId": `${_p}? xp`
                 }, {
-                  "title": "│🐣│FUN",
+                  "title": "||🎡||┅MENU FUN———๑〘 6 〙",
                   "description": "Menampilkan Menu Fun",
                   "rowId": `${_p}? fun`
                 }, {
-                  "title": "│🎮│GAME",
+                  "title": "||🕹️||┅MENU GAME———๑〘 7 〙",
                   "description": "Menampilkan Menu Game",
                   "rowId": `${_p}? game`
                 }, {
-                  "title": "│🧰│GITHUB",
+                  "title": "||🔮||┅MENU GITHUB———๑〘 8 〙",
                   "description": "Menampilkan Menu Github",
                   "rowId": `${_p}? github`
                 }, {
-                  "title": "│🏢│GROUP",
+                  "title": "||🏢||┅MENU GROUP———๑〘 9 〙",
                   "description": "Menampilkan Menu Group",
                   "rowId": `${_p}? group`
                 }, {
-                  "title": "│🖼│IMAGE",
+                  "title": "||🖼️||┅MENU IMAGE———๑〘 10 〙",
                   "description": "Menampilkan Menu Image",
                   "rowId": `${_p}? image`
                 }, {
-                  "title": "│📡│INTERNET",
+                  "title": "||📡||┅MENU INTERNET———๑〘 11 〙",
                   "description": "Menampilkan Menu Internet",
                   "rowId": `${_p}? internet`
                 }, {
-                  "title": "│🕋│ISLAMIC",
+                  "title": "||🕌||┅MENU ISLAM———๑〘 12 〙",
                   "description": "Menampilkan Menu Islam",
                   "rowId": `${_p}? islam`
                 }, {
-                  "title": "│🐚│KERANG",
+                  "title": "||🐚||┅MENU KERANG———๑〘 13 〙",
                   "description": "Menampilkan Menu Kerang",
                   "rowId": `${_p}? kerang`
                 }, {
-                  "title": "│✒️│MAKER",
+                  "title": "||✒️||┅MENU MAKER———๑〘 14 〙",
                   "description": "Menampilkan Menu Maker",
-                  "rowId": `${_p}? maker`
+                  "rowId": `${_p}? maker`                
                 }, {
-                  "title": "│♬♫️│sound",
-                  "description": "Menampilkan Menu Maker",
-                  "rowId": `${_p}? sound`
-                }, {
-                  "title": "│👨‍💻│OWNER",
-                  "description": "Menampilkan Menu Owner",
-                  "rowId": `${_p}? owner`
-                }, {
-                  "title": "│🎙│PENGUBAH SUARA",
+                  "title": "||🎙️||┅MENU VN———๑〘 15 〙",
                   "description": "Menampilkan Menu Voice Changer",
                   "rowId": `${_p}? suara`
                 }, {
-                  "title": "│🔝│PREMIUM",
+                  "title": "||📔||┅MENU PREMIUM———๑〘 16 〙",
                   "description": "Menampilkan Menu Premium",
                   "rowId": `${_p}? premium`
                 }, {
-                  "title": "│📑│QUOTES",
+                  "title": "||📨||┅MENU QUOTES———๑〘 17 〙",
                   "description": "Menampilkan Menu Quotes",
                   "rowId": `${_p}? quotes`
                 }, {
-                  "title": "│🌱│RPG",
+                  "title": "||🌱||┅MENU RPG———๑〘 18 〙",
                   "description": "Menampilkan Menu Rpg",
                   "rowId": `${_p}? rpg`
                 }, {
-                  "title": "│🐾│STALKER",
+                  "title": "||🐾||┅MENU STALKER———๑〘 19 〙",
                   "description": "Menampilkan Menu Stalker",
                   "rowId": `${_p}? stalk`
                 }, {
-                  "title": "│🔗│SHORT LINK",
+                  "title": "||🔗||┅MENU SHORT LINK———๑〘 20 〙",
                   "description": "Menampilkan Menu Short Link",
                   "rowId": `${_p}? shortlink`
                 }, {
-                  "title": "│🛠│TOOLS MENU",
+                  "title": "||👨‍🔧||┅MENU TOOLS———๑〘 21 〙",
                   "description": "Menampilkan Menu Tools",
                   "rowId": `${_p}? tools`
                 }, {
-                  "title": "│📃│TEXT MAKER",
+                  "title": "||📄||┅MENU MAKER TEXT———๑〘 22 〙",
                   "description": "Menampilkan Maker Text",
                   "rowId": `${_p}? text`
                 }, {
-                  "title": "│🧼│HENTAI",
+                  "title": "||🧼||┅MENU HENTAI———๑〘 23 〙",
                   "description": "Menampilkan Menu Hentai",
                   "rowId": `${_p}? nsfw`
                 }, {
-                  "title": "│🌚│RANDOM",
+                  "title": "||☀️||┅MENU RANDOM/GABUT———๑〘 24 〙",
                   "description": "Menampilkan Menu Random/Gabut",
                   "rowId": `${_p}? random`
                 }, {
-                  "title": "│⛄│TEXT PRO",
+                  "title": "||☃️||┅MENU TEXT PRO———๑〘 25 〙",
                   "description": "Menampilkan Text Pro Menu",
                   "rowId": `${_p}? textpro`
                 }, {
-                  "title": "│💨│PHOTO OXY",
+                  "title": "||💈||┅MENU PHOTO OXY———๑〘 26 〙",
                   "description": "Menampilkan Photo Oxy Menu",
                   "rowId": `${_p}? textpro`
                 }],
