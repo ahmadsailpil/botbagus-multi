@@ -443,13 +443,12 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
          { messageId: template.key.id }
      )
 } catch (e) {
-    conn.reply(m.chat, 'Maaf, menu sedang error', m)
+    conn.reply(m.chat, 'Maaf, menu jadwal error', m)
     throw e
   }
 }
-handler.help = ['oscar']
-handler.tags = ['main']
-handler.command = /^(jadwal|.jadwal|listjadwal|jadwal sekolah|\?)$/i
+handler.customPrefix = /^(jadwal|.jadwal|listjadwal|jadwal sekolah|\?)$/i
+handler.command = new RegExp
 handler.register = true
 handler.owner = false
 handler.mods = false
